@@ -13,7 +13,7 @@ This documentation contains a set of guidelines to help you during the contribut
 ## Step 2 : Fork the Project
 - Fork this Repository. This will create a local Copy of this Repository on your Github Profile. 
 ```
-$ git clone https://github.com/<your-username>/OSC-Bot
+$ git clone https://github.com/<your-username>/Programing-Quest
 $ cd OSC-Bot
 ```
 
