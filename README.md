@@ -1,5 +1,5 @@
 
-# Programing-Quest
+# Programming-Quest
  This repository will be a one stop destination for all the problems and guidance on programming, anyone who wants to contribute are most welcome.
 
 <img src='https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png'/>
